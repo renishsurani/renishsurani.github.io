@@ -9,6 +9,7 @@
 body{
     /* height: 7050px; */
     font-family: 'Poppins',sans-serif;
+    overflow-x: hidden;
 }
 
 html{
